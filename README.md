@@ -1,4 +1,4 @@
-# Crypto-Auto-Invest-And-Sell-Bot
+# Crypto-Auto-Buy-And-Sell-Bot
 Auto buy and sell bot for newly launched projects in the **Binance Smart Chain (BSC) platform listed in pancakeswap exchange**.<br/>
 
 And are providing relevant project informations in the **Telegram App**, including the token address, which we really need to execute a transaction.<br/>
