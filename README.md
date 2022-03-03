@@ -10,7 +10,7 @@ Specially made for playing with **low marketcap shitcoins or memecoins** which w
  - First is `tel_calls_bot.py`, which monitors a specific Telegram Channel for new coins or tokens being called by influencers and then invest them *(becoming an early investor)*.<br/>
  - Second is `snipe_bot.py`, which monitors a specific Telegram Group Chat and look and wait for contract/token address to be posted by admins/mods in the chat and then invest in them as well *(So you can become one of the first investors)*. This also wait for the contract address to acquire liquidity and will not return an error or worst stop the program if liquidity has not yet been added.<br/><br/>
 
-## Features
+### Features
 - You can set for specific x's or percent income where you want to exit.<br/>
 - You can set for a selling point from ATH (either 25%, 50%, or 75%) if ever your target x is not reached. To also avoid loss of capital.<br/>
 - Fixes contract addresses modified by telegram chat admins/mods.<br/>
