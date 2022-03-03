@@ -1,5 +1,5 @@
 # Crypto-Auto-Invest-And-Sell-Bot
-Auto invest and sell bot for newly launched projects in the **Binance Smart Chain (BSC) platform listed in pancakeswap exchange**.<br/>
+Auto buy and sell bot for newly launched projects in the **Binance Smart Chain (BSC) platform listed in pancakeswap exchange**.<br/>
 
 And are providing relevant project informations in the **Telegram App**, including the token address, which we really need to execute a transaction.<br/>
 
@@ -16,7 +16,7 @@ Specially made for playing with **low marketcap shitcoins or memecoins** which w
 - Fixes contract addresses modified by telegram chat admins/mods.<br/>
 - Ability to check transaction receipt status and a fix in case it failed.<br/>
 - Ability to detect blacklisting function in a contract.<br/>
-- Allows you to select the project market cap in which you want to make an investment. (only for `tel_calls_bot.py`). <br/><br/>
+- Allows you to select the project market cap in which you want to make an investment. ( only for `tel_calls_bot.py` ). <br/><br/>
 
 This also has the functionality of sending you an email including the transaction hash and token address whenever the bot invested or sold a coin or token.<br/>
 **Note**: *in order for the email to work, you need to turn ON "less secure" feature in the email settings of your sender email address, so it is advisable to create a temporary email for this. But you still have the choice if you don't want to use this feature.*<br/>
